@@ -4,4 +4,4 @@
 <a href="mailto:pablodonav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" alt="Contact"></a>
 <a href="https://www.linkedin.com/in/pablodonav//"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
 
-&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=pablodonav)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=pablodonav)
