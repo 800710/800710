@@ -1,6 +1,16 @@
-<h3>¡Hey! Bienvenidos a mi perfil.</h3>
+# ¡Hola! ¡Bienvenidos a mi perfil! 👋
 
-<a href="https://pablodonav.github.io/"><img src="https://img.shields.io/badge/-Personal%20Website-green" alt="Personal site"></a>
-<a href="mailto:pablodonav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" alt="Contact"></a>
-<a href="https://www.linkedin.com/in/pablodonav/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
+## Sobre mí
+Soy un desarrollador apasionado por la tecnología y la programación. Me especializo en Inteligencia Artificial. Siempre estoy buscando oportunidades para aprender y crecer en el mundo de la tecnología.
+
+## Contacto
+Puedes contactarme a través de los siguientes canales:
+
+- 🌐 [Sitio web personal](https://pablodonav.github.io/)
+- ✉️ [Correo electrónico](mailto:pablodonav@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablodonav/)
+
+## Estadísticas
 ![](https://komarev.com/ghpvc/?username=pablodonav)
+
+¡No dudes en contactar conmigo! Estoy abierto a colaboraciones y nuevas oportunidades.
