@@ -7,7 +7,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me especi
 Puedes contactarme a través de los siguientes canales:
 
 - 🌐 [Sitio web personal](https://pablodonav.github.io/)
-- ✉️ [Correo electrónico](mailto:pdonate@gmail.com)
+- ✉️ [Correo electrónico](mailto:pdonate@unizar.es)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablodonav/)
 
 ## Estadísticas
